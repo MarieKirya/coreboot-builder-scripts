@@ -1,3 +1,4 @@
 */build/
 */stock_bios/
 coreboot_*
+.DS_Store
